@@ -1,0 +1,104 @@
+.item {
+    background-color:rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+    padding: 15px;
+    display:inline-block;
+    width:20%;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    padding:1em;
+    line-height:1.5em;
+    background:rgb(255, 255, 255);
+    font-style: italic;
+}
+
+.clear-fix{
+    clear: both;
+}
+.logo{
+    float: left;
+    margin-left: 50px;
+    margin-top: 45px;
+    width: 260px;
+    height: 50px;
+}
+.headercount{
+    float: right;
+    width: 64%;
+    margin-top: 45px;
+    margin-left: 4px;
+    margin-right: 50px;
+    height: 50px;
+}
+
+.header2{
+    margin-top: 7px;
+    margin-bottom: 15px;
+    width: 89%;
+    height: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+.photo-area{
+    float: left;
+    margin-left: 50px;
+    width: 35%;
+    height: 225px;
+}
+
+.primary-messaging-area{
+    float: right;
+    margin-right: 50px;
+    width: 50%;
+    height: 225px;
+}
+
+.smas{
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 343px;
+    height: 225px;
+}
+
+.sma-1{
+    margin-left: 50px;
+}
+.sma-3{
+    margin-right: 50px;
+}
+
+.footer{
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 89%;
+    height: 1px;
+}
+
+.middle1{
+position: relative;
+z-index: 1;
+}
+
+.middle2{
+    position: relative;
+    bottom: 20px;
+
+}
+
+.middle3{
+position: relative;
+top: 80px;
+}
+
+.middle4{
+position: relative;
+top: 80px;
+}
+
+.middle5{
+position: relative;
+bottom: 25px;
+}

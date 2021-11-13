@@ -1,0 +1,75 @@
+.bg{
+    position: relative;
+    left: 160px;
+    top: 140px;
+}
+
+.item{
+    display: inline-block;
+    width: 250px;
+}
+
+.new{
+    position: relative;
+    background-color: blueviolet;
+    text-align: center;
+    color: white;
+    width: 50px;
+    top: 40px;
+}
+
+.versace{
+
+}
+
+.img{
+    position: relative;
+    width: 150px;
+    left: 50px;
+}
+
+.watch{
+
+}
+
+.head{
+text-align: center;
+}
+
+.money{
+    color: #11acbf;
+    font-weight: bolder;
+}
+
+.fa-star{
+    background-color: yellow;
+    position: relative;
+    left: 80px;
+}
+
+.fa-shopping-bag{
+    position: relative;
+    left: 50px;
+    bottom: 135px;
+    font-size: 25px;
+    color: #0fdf9c;
+}
+.fa-eye{
+    position: relative;
+    left: 20px;
+    bottom: 105px;
+    font-size: 25px;
+    color: #0fdf9c;
+}
+.fa-copy{
+    position: relative;
+    right: 5px;
+    bottom: 80px;
+    font-size: 20px;
+    color: #0fdf9c;
+}
+
+.samsung1{
+    position: relative;
+    
+}

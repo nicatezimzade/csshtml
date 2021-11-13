@@ -1,0 +1,10 @@
+.bg{
+    background-color: white;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 47%;
+    margin-top: 65px;
+}

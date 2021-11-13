@@ -1,0 +1,70 @@
+.bg{
+    background-image: url(task2\girl.jpg);
+    height: 599px;
+}
+
+.img{
+    height: 88vh;
+    width: 100%;
+}
+.block{
+    background-color: rgb(98 165 157);
+    position: relative;
+    left: 278px;
+    bottom: 99px;
+    width: 707px;
+    height: 158px;
+    border: 1px solid rgb(98 165 157);
+    border-radius: 10px;
+}
+
+.h1{
+    display: inline-block;
+    color: white;
+    margin-left: 5px;
+    font-style: italic;
+    position: relative;
+    font-size: 35px;
+    top: 40px;
+    left: 80px;
+    margin: 0px;
+}
+.h2{
+    display: inline-block;
+    font-style: italic;
+    position: relative;
+    color: white;
+}
+
+.icons{
+    display: inline-block;
+    font-style: italic;
+    color: white;
+    position: relative;
+    left: 100px;
+    top: 43px;
+    font-size: 20px;
+    margin-right: 19px;
+}
+
+.fas, .far{
+    color: rgb(53, 52, 52);
+}
+
+.fa-chevron-circle-right{
+position: relative;
+left: 96%;
+    bottom: 50%;
+    font-size: 33px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.fa-chevron-circle-left{
+position: relative;
+right: 2%;
+    bottom: 51%;
+    font-size: 33px;
+    border-radius: 25px;
+    background-color: white;
+}
